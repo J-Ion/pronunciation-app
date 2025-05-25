@@ -1,5 +1,4 @@
 streamlit
-sounddevice
-wavio
 openai-whisper
-python-Levenshtein
+torch
+numpy
